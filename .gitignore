@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Express.js
+*.log
+npm-debug.log*
+
+# MongoDB
+data/
+*.log
+mongod.lock
+
+# Environment variables
+.env
